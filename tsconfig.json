@@ -1,0 +1,16 @@
+{
+   "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "./dist",
+    "allowJs": true /* Allow javascript files to be compiled. */,
+    "declaration": true /* Generates corresponding .d.ts file. */,
+    "sourceMap": true /* Generates corresponding .map file. */,
+    "rootDir": "./src",
+    "esModuleInterop": true /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies allowSyntheticDefaultImports. */,
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
+  },
+  "include": ["./src/**/*.ts"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
