@@ -20,7 +20,7 @@
     "keys-to-camelcase": "^1.0.2",
     "knex": "^0.21.1",
     "mailgun-js": "^0.22.0",
-    "nanoid": "^3.1.6",
+    "nanoid": "^3.1.31",
     "nanoid-dictionary": "^3.0.0",
     "pg": "^8.1.0",
     "uuid": "^8.0.0"
