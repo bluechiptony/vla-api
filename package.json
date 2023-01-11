@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "keys-to-camelcase": "^1.0.2",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "mailgun-js": "^0.22.0",
     "nanoid": "^3.1.6",
     "nanoid-dictionary": "^3.0.0",
